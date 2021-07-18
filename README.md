@@ -1,1 +1,0 @@
-https://OlgaIvanova45.github.io/rsschool-cv/cv
