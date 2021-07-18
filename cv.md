@@ -1,6 +1,6 @@
 # Olga Ivanova
 
-![alt-myphoto](/myphoto.jpg =200x200) 
+![alt-myphoto](/myphoto.jpg) 
 
 Phone number | E-mail
 -------------|-------
