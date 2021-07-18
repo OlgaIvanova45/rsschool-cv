@@ -114,11 +114,14 @@ body {
 ## Education
 
 __2011 - 2017 -__ Lomonosov Moscov State University, phD course in Ecology
+
 __2012 - 2014 -__ Griboedov Institute of International Law and Economy, linguistics
+
 __2006 - 2011 -__ Lomonosov Moscov State University, Ecologist
 
 ## Languages
 
 __English -__ B2
+
 __Spanish -__ B1
 
